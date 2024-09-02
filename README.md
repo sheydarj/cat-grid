@@ -1,2 +1,2 @@
-demo
-https://sheydarj.github.io/cat-grid/
+Demo:
+(cat-grid)[https://sheydarj.github.io/cat-grid/]
