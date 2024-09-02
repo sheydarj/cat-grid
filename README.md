@@ -1,2 +1,2 @@
 Demo:
-(cat-grid)[https://sheydarj.github.io/cat-grid/]
+[cat-grid](https://sheydarj.github.io/cat-grid/)
